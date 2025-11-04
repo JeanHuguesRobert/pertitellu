@@ -18,12 +18,6 @@ La page "Bienvenue" du Wiki de Corte du Pertitellu invite les utilisateurs à co
 
 ---
 
-## [Ressources](/wiki/Ressources)
-
-(Pas de résumé disponible pour cette page.)
-
----
-
 ## [Où puis-je trouver les comptes-rendus des dernières réunions ?](/wiki/u-puis-je-trouver-les-comptes-rendus-des-dernieres-reunions-2025-11-03)
 
 (Pas de résumé disponible pour cette page.)
@@ -45,6 +39,14 @@ La page "Bienvenue" du Wiki de Corte du Pertitellu invite les utilisateurs à co
 ## [À Pietrosella, la mairie met sur le marché ses premiers logements en bail réel solidaire : en séparant le foncier du …](/wiki/A-Pietrosella-la-mairie-met-sur-le-marche-ses-premiers-logements-en-bail-reel-solidaire-en-separant-le-foncier-du)
 
 (Pas de résumé disponible pour cette page.)
+
+---
+
+## [Ressources](/wiki/Ressources)
+
+La page "Ressources" présente des informations sur la participation citoyenne à Corte, notamment en lien avec les conseils municipaux. Le dernier conseil s'est tenu le 28 octobre 2025 à la Maison du Temps Libre, mais sans la présence du public. Les communications publiques sont régies par le cadre légal établi par le Décret n° 2021-1311. La mairie utilise sa page Facebook officielle pour annoncer les conseils municipaux, bien que des informations sur le lieu aient été manquantes.
+
+Les annonces récentes incluent des projets de requalification de l'espace Logirem "Restonica", la création d'une passerelle pour piétons et cycles, et des avancées dans la requalification du centre ancien. Le site officiel de la mairie propose des archives des ordres du jour et des comptes rendus des conseils municipaux, mais ces documents ne sont plus à jour depuis octobre 2024. Des mises à jour récentes indiquent l'ajout d'ordres du jour manquants et un projet d'interpellation de la préfecture pour un contrôle de légalité.
 
 ---
 
