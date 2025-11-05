@@ -50,3 +50,21 @@ Les annonces récentes incluent des projets de requalification de l'espace Logir
 
 ---
 
+## [Quelle est la position du Pertitellu au sujet de Nicolas Battini, candidat à Bastia ? Contexte. Entretien de Nicolas …](/wiki/Quelle-est-la-position-du-Pertitellu-au-sujet-de-Nicolas-Battini-candidat-a-Bastia-Contexte-Entretien-de-Nicolas)
+
+(Pas de résumé disponible pour cette page.)
+
+---
+
+## [Laurent Marcangeli](/wiki/Laurent-Marcangeli)
+
+Laurent Marcangeli, député, est confronté à plusieurs préoccupations des Cortenais·es, abordées lors de l'émission Cuntrastu. Les questions portent sur des thèmes variés, notamment le logement, les infrastructures, la sécurité, la transparence, la jeunesse et l'environnement.
+
+Concernant le logement, les citoyens s'interrogent sur l'absence de généralisation du Bail Réel Solidaire en Corse et sur les mesures contre la spéculation foncière. Sur le plan des infrastructures, des inquiétudes sont soulevées concernant la lente progression d'un projet de passerelle pour piétons et cyclistes, ainsi que la nécessité de renforcer la sécurité publique sans recourir à des méthodes répressives.
+
+La transparence des conseils municipaux est également un sujet de débat, avec des demandes pour permettre l'accès du public aux débats. En ce qui concerne la jeunesse, des questions sont posées sur le logement étudiant et l'insertion professionnelle des jeunes diplômés. Enfin, des préoccupations environnementales émergent, notamment sur la requalification du centre ancien et la transition écologique.
+
+L'émission invite les citoyens à participer au débat et à poser d'autres questions.
+
+---
+
