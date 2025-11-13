@@ -3,7 +3,7 @@ title: Conseils Municipaux
 slug: ConseilsMunicipaux
 author_id: unknown
 created_at: 2025-10-27T09:10:57.084525+00:00
-updated_at: 2025-10-30T10:11:02.173+00:00
+updated_at: 2025-11-13T22:32:27.282+00:00
 ---
 
 # Participation de tous aux conseils municipaux — mode d’emploi
@@ -12,7 +12,7 @@ updated_at: 2025-10-30T10:11:02.173+00:00
 
 Objectif : ouvrir un canal public pour **poser vos questions** au conseil municipal, avec **classement équitable** par une IA “Monsieur Loyal”, puis **relai par un élu Pertitellu** en séance lorsque ce sera possible.
 
-> Prochaine séance : **mardi 28 octobre 2025** — **aucun élu Pertitellu ne pourra poser vos questions ce jour-là**. Nous les publierons et les transmettrons officiellement. **Mise à jour le 30/10/2025** : Nous n'avons pas assisté à ce conseil faute d'informations suffisantes sur sa localisation. Voir les [Ressources](Ressources) mises à disposition à ce sujet.
+> Prochaine séance : **mardi 28 octobre 2025** — **aucun élu Pertitellu ne pourra poser vos questions ce jour-là**. Nous les publierons et les transmettrons officiellement. **Mise à jour le 30/10/2025** : Nous n'avons pas assisté à ce conseil faute d'informations suffisantes sur sa localisation. Voir les [Ressources](Ressources) mises à disposition à ce sujet. **Mise à jour le 13/11/2025** : le site officiel de la mairie a été corrigé le 31/10/2025, voir [l'audit automatique](http://LePP.fr/docs/rapport-corte-total.md).
 
 ---
 
