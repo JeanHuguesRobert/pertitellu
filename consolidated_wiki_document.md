@@ -6,15 +6,19 @@
 
 ---
 
-## [Conseils Municipaux](/wiki/ConseilsMunicipaux)
-
-(Pas de résumé disponible pour cette page.)
-
----
-
 ## [Bienvenue](/wiki/Accueil)
 
 La page "Bienvenue" du Wiki de Corte du Pertitellu invite les utilisateurs à contribuer en ajoutant ou en modifiant des pages, tout en respectant la Charte d'utilisation. Elle souligne l'importance d'une manipulation modérée des contenus. Pour ceux qui souhaitent en savoir plus sur le fonctionnement des wikis, un lien vers Wikipedia est fourni. De plus, une mise à jour récente mentionne qu'Ophélia, l'assistante civique IA, utilise ce wiki comme sa "mémoire" pour répondre aux utilisateurs. La page se termine par un remerciement pour les contributions des membres.
+
+---
+
+## [Conseils Municipaux](/wiki/ConseilsMunicipaux)
+
+La page "Conseils Municipaux" présente un système de participation citoyenne permettant aux habitants de poser des questions au conseil municipal. Les questions sont classées par une IA nommée "Monsieur Loyal", garantissant un traitement équitable et diversifié. Un élu Pertitellu relaye les questions lors des séances publiques, avec une prochaine réunion prévue le 28 octobre 2025, où aucune question ne pourra être posée en direct.
+
+Les citoyens peuvent soumettre leurs questions en suivant un modèle précis, en veillant à ce qu'elles soient courtes, polies et factuelles. Chaque question est publiée sans anonymisation, et les participants acceptent la publication de leurs informations. Les règles de priorisation assurent une équité d'accès, avec une question par personne par séance et un tirage au sort en cas d'égalité.
+
+Les séances sont suivies de la publication des questions posées et des réponses fournies. Les aspects légaux concernant la publication et la protection des données sont également abordés. Ce dispositif vise à renforcer la transparence et l'engagement citoyen dans la gouvernance locale.
 
 ---
 
@@ -65,6 +69,12 @@ Concernant le logement, les citoyens s'interrogent sur l'absence de généralisa
 La transparence des conseils municipaux est également un sujet de débat, avec des demandes pour permettre l'accès du public aux débats. En ce qui concerne la jeunesse, des questions sont posées sur le logement étudiant et l'insertion professionnelle des jeunes diplômés. Enfin, des préoccupations environnementales émergent, notamment sur la requalification du centre ancien et la transition écologique.
 
 L'émission invite les citoyens à participer au débat et à poser d'autres questions.
+
+---
+
+## [CorsIA Corte](/wiki/corsia-corte)
+
+(Pas de résumé disponible pour cette page.)
 
 ---
 
