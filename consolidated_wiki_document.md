@@ -78,3 +78,25 @@ L'émission invite les citoyens à participer au débat et à poser d'autres que
 
 ---
 
+## [Conversation avec Ophélia, IA de Pertitellu](/wiki/conversation-avec-ophelia-ia-de-pertitellu)
+
+(Pas de résumé disponible pour cette page.)
+
+---
+
+## [Transparence, Participation et Écologie pour Corte](/wiki/PartiPirateTransparenceParticipationCorte)
+
+(Pas de résumé disponible pour cette page.)
+
+---
+
+## [Paul-Félix Benedetti](/wiki/paul-félix-benedetti)
+
+Paul-Félix Benedetti est un leader politique corse, à la tête du mouvement Core in Fronte, engagé dans la lutte contre la mafia en Corse. En novembre 2025, il a participé à des manifestations massives à Ajaccio et Bastia, appelées par des collectifs antimafia, qui s'inscrivent dans une "révolution culturelle" contre l'emprise mafieuse sur l'île. Benedetti insiste sur l'importance de l'engagement moral et individuel dans cette lutte.
+
+Dans le cadre de l'émission PuliticaMente sur RCFM, plusieurs thématiques sont abordées, notamment les prochaines élections municipales, les manifestations anti-mafia et les violences récentes en Corse. Les questions posées à Benedetti portent sur la définition du système mafieux, la responsabilité des élus nationalistes, et les mesures concrètes à prendre pour combattre cette problématique.
+
+Benedetti est également interrogé sur son éventuelle candidature aux municipales de 2026 à Sartène, les conditions nécessaires pour y participer, et son engagement envers la transparence municipale. Enfin, il est question de l'éducation des jeunes sur les enjeux mafieux et du rôle potentiel d'une IA civique dans la lutte contre la corruption et la mafia.
+
+---
+
